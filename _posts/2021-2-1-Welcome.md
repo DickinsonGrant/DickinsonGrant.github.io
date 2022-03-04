@@ -2,4 +2,4 @@
 layout: post
 title: Welcome!
 ---
-You can change the title above if you want to and then write your content.  
+Thank you for visiting my page today! Hopefully we will be able to talk in person at one point, but for now be sure to check out all of the pages!  
