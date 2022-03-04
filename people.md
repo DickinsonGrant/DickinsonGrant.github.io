@@ -4,4 +4,4 @@ title: Group Members
 permalink: /people/
 ---
 
-Include information about current and past group members here. 
+Derik Frantz- Professor/Head of Research Group
