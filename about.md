@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Howdy! I am Grant Dickinson, and I'm currently a second year chemistry major at Cal Poly San Luis Obispo. I do not have a specific career goal within the field of chemistry, but research and synthesis are some of my present interests. However I am open to new experinces to expand my interests. As of today, I am in a research group run by Dr. Frantz here at Cal Poly, studying the synthesis of highly strained molecules and their properties.  
-![](/images/IMG-2243.jpg)
+![IMG-2243](https://user-images.githubusercontent.com/99563233/156939510-2a417749-3dc6-4aee-8254-bf343269c9b8.jpg)
 
 ### More Information
 
